@@ -1,6 +1,6 @@
 # CryptoBirdz-Marketplace project
 
-**Link to project:** https://627d973f05b5871486c75ee8--zippy-arithmetic-b653b8.netlify.app/
+**Link to project:** https://inspiring-gecko-459bf7.netlify.app
 
 ![todo_javascript](https://user-images.githubusercontent.com/96799477/168452695-37cd66c1-17bf-4c95-b342-7310bef17b53.png)
 
