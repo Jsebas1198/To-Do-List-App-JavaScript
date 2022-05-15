@@ -1,4 +1,4 @@
-# CryptoBirdz-Marketplace project
+# To do list app with Javascript
 
 **Link to project:** https://inspiring-gecko-459bf7.netlify.app
 
